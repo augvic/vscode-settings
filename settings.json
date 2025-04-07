@@ -2,13 +2,13 @@
     // ================================================== \\
 
     // ~~ Settings.
-    "workbench.colorTheme": "One Dark Pro",
+    "workbench.colorTheme": "Catppuccin Mocha",
     "workbench.layoutControl.enabled": false,
     "window.menuBarVisibility": "compact",
     "files.autoSave": "afterDelay",
     "editor.fontFamily": "JetBrainsMono Nerd Font",
     "symbols.hidesExplorerArrows": false,
-    "workbench.iconTheme": "symbols",
+    "workbench.iconTheme": "catppuccin-mocha",
     "editor.minimap.enabled": false,
     "editor.fontLigatures": true,
     "editor.cursorSmoothCaretAnimation": "on",
@@ -40,7 +40,7 @@
         "rgba(240,120,255,1)",
         "rgba(255,120,170,1)",
         "rgba(255,120,120,1)"
-    ]
+    ],
 
     // ================================================== \\
 }
