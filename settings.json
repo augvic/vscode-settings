@@ -1,0 +1,43 @@
+{
+    // ~~ Settings.
+    "workbench.colorTheme": "Min Dark",
+    "workbench.layoutControl.enabled": false,
+    "window.menuBarVisibility": "compact",
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "editor.minimap.enabled": false,
+    "editor.fontLigatures": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorStyle": "block",
+    "editor.stickyScroll.enabled": false,
+    "explorer.compactFolders": false,
+    "window.restoreWindows": "none",
+    "workbench.startupEditor": "none",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "editor.cursorBlinking": "smooth",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.find.cursorMoveOnType": false,
+    "update.mode": "none",
+    "workbench.productIconTheme": "macos-modern",
+    "workbench.colorCustomizations": {
+        "editorCursor.background": "#000000",
+        "editorCursor.foreground": "#69b0cc",
+        "terminalCursor.background": "#000000",
+        "terminalCursor.foreground": "#69b0cc"
+    },
+    "indentRainbow.indicatorStyle": "light",
+    "indentRainbow.lightIndicatorStyleLineWidth": 1,
+    "indentRainbow.colors": [
+        "rgba(120,255,190,1)",
+        "rgba(120,245,255,1)",
+        "rgba(120,150,255,1)",
+        "rgba(170,120,255,1)",
+        "rgba(240,120,255,1)",
+        "rgba(255,120,170,1)",
+        "rgba(255,120,120,1)"
+    ],
+    "git.autofetch": true
+}
