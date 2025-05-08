@@ -15,7 +15,7 @@
     "explorer.compactFolders": false,
     "window.restoreWindows": "none",
     "workbench.startupEditor": "none",
-    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "editor.cursorBlinking": "smooth",
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
@@ -39,5 +39,6 @@
         "rgba(255,120,170,1)",
         "rgba(255,120,120,1)"
     ],
-    "git.autofetch": true
+    "git.autofetch": true,
+    "explorer.autoReveal": false
 }
